@@ -1,0 +1,13 @@
+Enter the number of nodes in the graph: 5
+Enter the number of edges in the graph: 8
+Enter each edge in new line
+0 1
+0 2
+0 3
+4 1 
+4 2
+4 3
+1 2
+2 3
+
+
